@@ -1,0 +1,9 @@
+streamlit
+pandas
+fpdf
+textract
+docx2txt
+sentence-transformers
+matplotlib
+seaborn
+xlsxwriter
